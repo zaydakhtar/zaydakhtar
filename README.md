@@ -16,4 +16,4 @@ I build AI-powered automation systems using n8n, Groq, and modern LLMs.
 
 ## 📍 UK-based · Open to remote contracts and consulting
 
-[LinkedIn](your-link) · [Portfolio](your-carrd-link-when-live)
+[LinkedIn](https://www.linkedin.com/in/zayd-a-03b681144/) · [Portfolio](your-carrd-link-when-live)
